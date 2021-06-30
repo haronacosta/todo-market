@@ -34,8 +34,19 @@
   color: #fff;
 }
 
+.form-control.is-invalid {
+  background-image: unset;
+  background-repeat: unset;
+  background-position: unset;
+  background-size: unset;
+}
+
 .form-control::placeholder {
   color: rgba(234, 237, 237, 0.8);
+}
+
+.btn-primary {
+  height: 38px;
 }
 
 .list-group {

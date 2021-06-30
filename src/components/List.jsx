@@ -10,6 +10,7 @@ const List = () => {
     handleInputSubmit,
     products,
     handleDeleteProduct,
+    error,
   } = useList([]);
 
   return (
@@ -19,6 +20,7 @@ const List = () => {
         product={product}
         handleInputChange={handleInputChange}
         handleInputSubmit={handleInputSubmit}
+        error={error}
       />
 
       <Products products={products} handleDeleteProduct={handleDeleteProduct} />
