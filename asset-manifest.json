@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/todo-market/static/css/main.8df99f63.chunk.css",
-    "main.js": "/todo-market/static/js/main.dd25e71e.chunk.js",
-    "main.js.map": "/todo-market/static/js/main.dd25e71e.chunk.js.map",
+    "main.css": "/todo-market/static/css/main.71dc9074.chunk.css",
+    "main.js": "/todo-market/static/js/main.a2397ebe.chunk.js",
+    "main.js.map": "/todo-market/static/js/main.a2397ebe.chunk.js.map",
     "runtime-main.js": "/todo-market/static/js/runtime-main.2d9e847a.js",
     "runtime-main.js.map": "/todo-market/static/js/runtime-main.2d9e847a.js.map",
     "static/js/2.752921fd.chunk.js": "/todo-market/static/js/2.752921fd.chunk.js",
     "static/js/2.752921fd.chunk.js.map": "/todo-market/static/js/2.752921fd.chunk.js.map",
     "index.html": "/todo-market/index.html",
-    "static/css/main.8df99f63.chunk.css.map": "/todo-market/static/css/main.8df99f63.chunk.css.map",
+    "static/css/main.71dc9074.chunk.css.map": "/todo-market/static/css/main.71dc9074.chunk.css.map",
     "static/js/2.752921fd.chunk.js.LICENSE.txt": "/todo-market/static/js/2.752921fd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2d9e847a.js",
     "static/js/2.752921fd.chunk.js",
-    "static/css/main.8df99f63.chunk.css",
-    "static/js/main.dd25e71e.chunk.js"
+    "static/css/main.71dc9074.chunk.css",
+    "static/js/main.a2397ebe.chunk.js"
   ]
 }
