@@ -6,7 +6,7 @@ function Todo() {
   return (
     <div className='Todo'>
       <Header />
-      <main className='main container'>
+      <main className='main'>
         <List />
       </main>
       <Footer />
