@@ -77,6 +77,19 @@
   height: 80%;
 }
 
+.Footer {
+  display: flex;
+  justify-content: center;
+}
+
+.Footer div.fs-6 {
+  padding: 0.5rem 0.1rem;
+}
+
 .Footer .nav-link {
   color: #17202a;
+}
+
+.Footer .nav-link:hover {
+  font-weight: bold;
 }

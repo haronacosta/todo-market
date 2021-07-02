@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 
 export const useList = (initialProducts) => {
-  const pattern = /^[.,0-9a-zA-Z ]+$/;
+  const pattern = /^[.,0-9a-zA-Zñ-]+$/;
 
   const [state, setState] = useState({
     product: '',
